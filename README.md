@@ -26,10 +26,10 @@ numpy or opencv
 
 4.第四张图是利用马氏距离，将阈值设置为7，从而得到了二值图，最终利用二值图找缺陷的位置就可以实现缺陷定位了。
 <div style="display:flex">
-    <img src="./images/temp.png" style="width:25%;margin-right:10px"/>
-    <img src="./images/temp_restruct_from_ft.png" style="width:25%;margin-right:10px"/>
-    <img src="./images/temp_after_blur_norm.png" style="width:25%;margin-right:10px"/>
-    <img src="./images/temp_binary.png" style="width:25%"/>
+    <img src="./images/temp.png" style="width:22%;margin-right:10px"/>
+    <img src="./images/temp_restruct_from_ft.png" style="width:22%;margin-right:10px"/>
+    <img src="./images/temp_after_blur_norm.png" style="width:22%;margin-right:10px"/>
+    <img src="./images/temp_binary.png" style="width:22%"/>
 </div>
 
 
@@ -43,11 +43,11 @@ numpy or opencv
 
 5.第五张图就是缺陷检测的位置。（可以看到缺陷检测的效果还是不错的）
 <div style="display:flex">
-    <img src="./images/rail_1.jpeg" style="width:25%;margin-right:10px"/>
-    <img src="./images/rail_1_ft_retruct.jpeg" style="width:25%;margin-right:10px"/>
-    <img src="./images/rail_1_after_blur.jpeg" style="width:25%;margin-right:10px"/>
-    <img src="./images/rail_1_binary.jpeg" style="width:25%;margin-right:10px"/>
-    <img src="./images/rail_1_detect.jpeg" style="width:25%"/>
+    <img src="./images/rail_1.jpeg" style="width:18%;margin-right:10px"/>
+    <img src="./images/rail_1_ft_retruct.jpeg" style="width:18%;margin-right:10px"/>
+    <img src="./images/rail_1_after_blur.jpeg" style="width:18%;margin-right:10px"/>
+    <img src="./images/rail_1_binary.jpeg" style="width:18%;margin-right:10px"/>
+    <img src="./images/rail_1_detect.jpeg" style="width:18%"/>
 </div>
 
 
